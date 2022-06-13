@@ -10,21 +10,12 @@
     android:padding="20dp"
     tools:context=".FinalResultActivity">
 
-<!--    <TextView-->
-<!--        android:id="@+id/tv_result"-->
-<!--        android:layout_width="wrap_content"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginTop="25dp"-->
-<!--        android:text="Result"-->
-<!--        android:textColor="@android:color/white"-->
-<!--        android:textSize="40sp"-->
-<!--        android:textStyle="bold"/>-->
 
     <ImageView
         android:id="@+id/iv_trophy"
         android:layout_width="300dp"
         android:layout_height="300dp"
-        android:contentDescription="image"
+        android:contentDescription="@string/image"
         android:layout_marginBottom="50dp"
         android:src="@drawable/trophy"/>
 
@@ -33,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Hey, Congratulations!"
+        android:text="@string/congo_msg"
         android:textColor="@android:color/white"
         android:textSize="25sp"
         android:textStyle="bold"/>
@@ -63,7 +54,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:backgroundTint="@android:color/white"
-        android:text="FINISH"
+        android:text="@string/finish"
         android:textColor="@color/design_default_color_primary"
         android:textSize="18sp"
         android:textStyle="bold"/>

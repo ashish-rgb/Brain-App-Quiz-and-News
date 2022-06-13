@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="quiz_and_news">QUIZ AND NEWS</string>
+    <string name="start_quiz">START QUIZ</string>
+    <string name="latest_news">Latest News</string>
+    <string name="congo_msg">Hey, Congratulations!</string>
+    <string name="finish">FINISH</string>
+    <string name="image">image</string>
+    <string name="brain_app">Brain App</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_name">Please Enter Your Name</string>
+    <string name="eg">e.g. Ashish</string>
+    <string name="start">Start</string>
+    <string name="img_quiz">Quiz Image</string>
+    <string name="which_country">Which Country?</string>
+    <string name="apple">Apple</string>
+    <string name="submit">SUBMIT</string>
+    <string name="_0_10">0/10</string>
 </resources>
